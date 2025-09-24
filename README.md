@@ -48,7 +48,7 @@ I love building privacy-first tools, experimenting with web technologies, and sh
 ## 📚 Education
 - **Nursery – 5th Grade:** Rajendrapur Cantonment Public School and College  
 - **6th – 10th Grade:** Rajuk Uttara Model College  
-- **11th – 12th Grade:** *In progress...*  
+- **11th – 12th Grade:** Rajuk Uttara Model College  
 
 ---
 
