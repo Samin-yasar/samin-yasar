@@ -70,4 +70,4 @@ I love building privacy-first tools, experimenting with web technologies, and sh
 ---
 
 📜 Licensed under the **MIT License**.  
-© 2020–2025 **Samin Yasar**. Crafted with ❤️ in Bangladesh.
+© 2020–2026 **Samin Yasar**. Crafted with ❤️ in Bangladesh.
