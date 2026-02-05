@@ -29,7 +29,7 @@ I love building privacy-first tools, experimenting with web technologies, and sh
 - **StarryCrypt** – End-to-end text encryption utility  
 - **Lunr** – Free period-tracking web app  
 - **Starpass** – Offline strong password generator  
-- **Private Wave** – Peer-to-peer encrypted chat  
+- **StarConnect** – Peer-to-peer encrypted chat  
 - **OriginScan** – Barcode-based product origin scanner  
 - **Bangla Converter** – Bengali numeral system converter  
 
