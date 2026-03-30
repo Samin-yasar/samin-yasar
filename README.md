@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm a **developer, photographer, and cybersecurity advocate** from **Bangladesh**.  
 I love building privacy-first tools, experimenting with web technologies, and sharing knowledge with the community.  
 
-🌐 Check out my portfolio: [samin-yasar.github.io](https://samin-yasar.github.io)
+🌐 Check out my portfolio: [samin-yasar.dev](https://samin-yasar.dev)
 
 ---
 
@@ -53,12 +53,12 @@ I love building privacy-first tools, experimenting with web technologies, and sh
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: **samin.rash525@silomails.com**  
+- 📧 Email: **me@samin-yasar.dev**  
 - 🐙 GitHub: [@samin-yasar](https://github.com/samin-yasar)  
 - 💼 LinkedIn: [@samin-yasar23](https://linkedin.com/in/samin-yasar23)  
 - 🐦 X (Twitter): [@SaminYasar23](https://twitter.com/SaminYasar23)  
 - 🐘 Mastodon: [@Samin@fosstodon.org](https://fosstodon.org/@Samin)  
-- 🌐 Bluesky: [@samin-yasar.github.io](https://bsky.app/profile/samin-yasar.github.io)  
+- 🌐 Bluesky: [@samin-yasar.dev](https://bsky.app/profile/samin-yasar.dev)  
 
 ---
 
